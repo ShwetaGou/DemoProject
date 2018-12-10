@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-12-10T10:28:03Z" name="Default suite" finished-at="2018-12-10T10:28:13Z" duration-ms="9945">
+    <groups>
+    </groups>
+    <test started-at="2018-12-10T10:28:03Z" name="Default test" finished-at="2018-12-10T10:28:13Z" duration-ms="9945">
+      <class name="com.palnit.testsetup.TestBase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.palnit.testsetup.TestBase@24aed80c]" started-at="2018-12-10T10:28:03Z" name="setUp" finished-at="2018-12-10T10:28:07Z" duration-ms="3810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="launchApplication()[pri:0, instance:com.palnit.testsetup.TestBase@24aed80c]" started-at="2018-12-10T10:28:07Z" name="launchApplication" finished-at="2018-12-10T10:28:12Z" duration-ms="5419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.palnit.testsetup.TestBase@24aed80c]" started-at="2018-12-10T10:28:12Z" name="tearDown" finished-at="2018-12-10T10:28:13Z" duration-ms="686" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.palnit.testsetup.TestBase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
