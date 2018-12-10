@@ -13,7 +13,7 @@ public class TestBase {
 	@BeforeMethod
 	public void setUp() {
 		System.setProperty("webdriver.chrome.exe", "chromedriver.exe");
-		//
+		
 		driver = new ChromeDriver();
 
 	}
